@@ -1,4 +1,4 @@
-### Hi, I'm Adam 👋
+### Hi, I'm Adam
 
 Computer Science graduate (MSc, GIS specialisation, KUL Lublin, 2026) with a background in
 mathematics and finance. I build and run my own AI systems on a self-hosted GPU home lab,
@@ -20,4 +20,4 @@ and I'm currently studying Cybersecurity (postgraduate, WSEI).
 - **Data:** PostgreSQL, pandas, geospatial and Earth Observation data (rasterio, GeoPandas), statistics and forecasting
 - **Engineering:** Linux, Docker, systemd, Git, REST APIs, Tailscale
 
-🇵🇱 Polish (native) · 🇬🇧 English (B2) · 🇩🇪 German (B1)
+Languages: Polish (native), English (B2), German (B1)
